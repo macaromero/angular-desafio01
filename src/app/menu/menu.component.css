@@ -1,0 +1,22 @@
+.menu-item {
+    list-style: none;
+}
+
+.menu {
+    background-color: #E7E7EA;
+    height: 100%;
+    width: 17%;
+}
+
+.item {
+    text-decoration: none;
+    color: #333;
+}
+
+.item:hover, .item:active {
+    color: rgb(8, 8, 8);
+}
+
+.text {
+    font-size: 1em;
+}
